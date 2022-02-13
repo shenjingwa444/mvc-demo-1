@@ -4,7 +4,7 @@
     border:1px solid black;
     margin-left:10vw;
     margin-top:10vh;
-    transition:transform 2s;
+    transition:transform 1s;
 }
 .square.active{
     transform:translateX(15vw)
